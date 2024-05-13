@@ -27,6 +27,7 @@ python sentiment_analysis.ipynb
 
 4. Follow the prompts to train the CNN model and perform sentiment analysis on input text.
 
+5. To view Intel One API model for the same project, use this link, https://jupyter.oneapi.devcloud.intel.com/user/u215422/doc/tree/Sentiment_Analysis.ipynb
 ## Project Structure
 
 - `sentiment_analysis.ipynb`: Main Python script for sentiment analysis using CNNs.
